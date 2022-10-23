@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="./examples/assets/styles.css">
+    <script defer src="./lib/index.browser.js"></script>
+    <script defer type="module">
+        const count = ref(0)
+        const btn = document.getElementById("btn")
+        btn.addEventListener('click', e => {
+            btn.textContent = `Count: ${++count.value}`
+        })
+    </script>
+    
+</head>
+<body>
+    <div>
+        <h2>Reactive Counter</h2>
+        <button id="btn">Count: 0</button>
+    </div>
+</body>
+</html>
