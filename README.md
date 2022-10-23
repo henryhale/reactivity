@@ -1,7 +1,7 @@
 
 # Reactivity
 
-After completing my basic implementation of render functions,
+After completing my basic implementation of [render functions](https://github.com/henryhale/render-functions),
 I went further to tap into **Reactive Programmming** using JavaScript basing on [_Vue's reactivity_](https://vuejs.org/guide/essentials/reactivity-fundamentals.html).
 
 ````js
