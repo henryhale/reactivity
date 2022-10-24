@@ -228,6 +228,15 @@ I have developed some basic examples to illustrate how reactivity can be useful.
 - [Model Input](./examples/02-model-input/)
 - [Temperature Converter](./examples/03-temperature-converter/)
 
+
+## References
+
+- [Rich Harris - Rethinking Reactivity](https://www.youtube.com/watch?v=AdNJ3fydeao)
+
+- [Svelte 3: Rethinking Reactivity](https://svelte.dev/blog/svelte-3-rethinking-reactivity)
+
+- [Ryan Solid - Fine grained reactivity](https://dev.to/ryansolid/a-hands-on-introduction-to-fine-grained-reactivity-3ndf)
+
 ## Thoughts
 
 In case of any issues or inquiries about this, a pull request is welcome.
