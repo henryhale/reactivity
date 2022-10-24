@@ -1,7 +1,7 @@
 {
   "name": "reactivity",
   "version": "1.0.0",
-  "description": "",
+  "description": "A basic implementation of reactivity in JavaScript",
   "main": "lib/index.js",
   "type": "module",
   "directories": {
@@ -11,6 +11,6 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Henry Hale",
   "license": "ISC"
 }
