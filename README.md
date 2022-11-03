@@ -1,5 +1,5 @@
-
-# Reactivity
+<p align="center"><img width="100px" alt="Reactivity" src="https://user-images.githubusercontent.com/92443116/199690375-adaec8cc-e426-4226-8a81-d7ee6fe4e1da.png"></p>
+<h1 align="center">Reactivity</h1>
 
 After completing my basic implementation of [render functions](https://github.com/henryhale/render-functions),
 I went further to tap into **Reactive Programmming** using JavaScript basing on [_Vue's reactivity_](https://vuejs.org/guide/essentials/reactivity-fundamentals.html).
