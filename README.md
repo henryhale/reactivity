@@ -237,6 +237,8 @@ I have developed some basic examples to illustrate how reactivity can be useful.
 
 - [Ryan Solid - Fine grained reactivity](https://dev.to/ryansolid/a-hands-on-introduction-to-fine-grained-reactivity-3ndf)
 
+- [Introduction to Reactivity with SolidJS](https://www.youtube.com/watch?v=J70HXl1KhWE)
+
 ## Thoughts
 
 In case of any issues or inquiries about this, a pull request is welcome.
