@@ -22,7 +22,7 @@ I went further to tap into **Reactive Programmming** using JavaScript basing on 
 
 ## Live Demo
 
-**Temperature Converter** -> [link](https://henryhale.github.io/reactivity/)
+**Temperature Converter** -> [source code](./examples/03-temperature-converter/) -> [demo link](https://henryhale.github.io/reactivity/)
 
 ## Target Audience
 
