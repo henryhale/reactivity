@@ -4,22 +4,22 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-    <link rel="stylesheet" href="./examples/assets/styles.css">
-    <script defer src="./lib/index.browser.js"></script>
-    <script defer type="module">
-        const count = ref(0)
-        const btn = document.getElementById("btn")
-        btn.addEventListener('click', e => {
-            btn.textContent = `Count: ${++count.value}`
-        })
-    </script>
-    
+    <title>03 Temperature Converter</title>
+  <script type="module" crossorigin src="./assets/index.3e3d590f.js"></script>
+  <link rel="stylesheet" href="./assets/index.9cbe1dc2.css">
 </head>
 <body>
-    <div>
-        <h2>Reactive Counter</h2>
-        <button id="btn">Count: 0</button>
+    <div id="app">
+        <h1 id="appTitle"></h1>
+        <div class="form-input">
+            <input type="number" name="c-input" id="c-input">
+            <label for="c-input">Celsius</label>
+        </div>
+        <div class="form-input">
+            <input type="number" name="f-input" id="f-input">
+            <label for="f-input">Fahrenheit</label>
+        </div>
+        <div id="tempTxt"></div>
     </div>
 </body>
 </html>
