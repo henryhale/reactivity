@@ -20,6 +20,10 @@ I went further to tap into **Reactive Programmming** using JavaScript basing on 
     // > Count: 2
 ````
 
+## Live Demo
+
+**Temperature Converter** -> [link](https://henryhale.github.io/reactivity/)
+
 ## Target Audience
 
 This repository is not for beginners; it's targeted at intermediate or professional developers and programmers who want to take their JavaScript skills to the next level.
