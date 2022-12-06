@@ -243,6 +243,8 @@ I have developed some basic examples to illustrate how reactivity can be useful.
 
 - [Introduction to Reactivity with SolidJS](https://www.youtube.com/watch?v=J70HXl1KhWE)
 
+- [SolidJS Basic Reactivity](https://www.solidjs.com/docs/latest/api)
+
 ## Thoughts
 
 In case of any issues or inquiries about this, a pull request is welcome.
