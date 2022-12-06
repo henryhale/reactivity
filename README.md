@@ -2,7 +2,7 @@
 <h1 align="center">Reactivity</h1>
 
 After completing my basic implementation of [render functions](https://github.com/henryhale/render-functions),
-I went further to tap into **Reactive Programmming** using JavaScript basing on [_Vue's reactivity_](https://vuejs.org/guide/essentials/reactivity-fundamentals.html).
+I went further to tap into **Reactive Programmming** using JavaScript.
 
 ````js
  import { reactive } from "../lib/index.js"
@@ -234,6 +234,8 @@ I have developed some basic examples to illustrate how reactivity can be useful.
 
 
 ## References
+
+- [Vue's Reactivity Fundamentals](https://vuejs.org/guide/essentials/reactivity-fundamentals.html).
 
 - [Rich Harris - Rethinking Reactivity](https://www.youtube.com/watch?v=AdNJ3fydeao)
 
