@@ -235,7 +235,9 @@ I have developed some basic examples to illustrate how reactivity can be useful.
 
 ## References
 
-- [Vue's Reactivity Fundamentals](https://vuejs.org/guide/essentials/reactivity-fundamentals.html).
+- [A General Theory of Reactivity](https://github.com/kriskowal/gtor?tab=readme-ov-file#a-general-theory-of-reactivity)
+
+- [Vue's Reactivity Fundamentals](https://vuejs.org/guide/essentials/reactivity-fundamentals.html)
 
 - [Rich Harris - Rethinking Reactivity](https://www.youtube.com/watch?v=AdNJ3fydeao)
 
